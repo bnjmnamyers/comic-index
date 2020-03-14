@@ -1,6 +1,6 @@
 ---
-templateKey: 'test-page'
-path: /test
+templateKey: 'about-page'
+path: /about
 title: About our values
 ---
 

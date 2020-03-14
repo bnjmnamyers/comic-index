@@ -1,7 +1,7 @@
 ---
 templateKey: 'test-page'
 path: /test
-title: About our values
+title: Test page
 ---
 
 ### Shade-grown coffee
